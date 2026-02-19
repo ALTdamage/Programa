@@ -110,7 +110,7 @@ def actualizar_saldo():
 # ----------------------------
 
 ventana = tk.Tk()
-ventana.title("Your Wallet")
+ventana.title("my Wallet")
 ventana.geometry("700x600")
 ventana.resizable(False, False)
 
