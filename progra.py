@@ -5,7 +5,7 @@ import sqlite3
 from datetime import datetime
 
 # ----------------------------
-# BASE DE DATOS
+# BASE DE DATOS#333
 # ----------------------------
 
 conexion = sqlite3.connect("finanzas.db")
