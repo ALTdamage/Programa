@@ -145,7 +145,7 @@ boton_salida = tk.Button(
     text="Salir",
     width=20,
     bg="#ADD8E6",
-    fg="black",
+    fg="BLUE",
     command=ventana.destroy
 )
 boton_salida.pack(pady=5)
